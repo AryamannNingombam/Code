@@ -1,0 +1,1 @@
+Solutions to some of the problems I've solved on cp platforms.
